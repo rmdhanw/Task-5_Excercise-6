@@ -1,0 +1,10 @@
+../Core/Src/main.c:73:5:main	1
+../Core/Src/main.c:155:6:SystemClock_Config	3
+../Core/Src/main.c:192:13:MX_GPIO_Init	1
+../Core/Src/main.c:216:6:accessSharedData	2
+../Core/Src/main.c:231:6:SimulateReadWriteOperation	2
+../Core/Src/main.c:248:6:StartDefaultTask	1
+../Core/Src/main.c:266:6:GreenLedTask	1
+../Core/Src/main.c:291:6:RedLedTask	1
+../Core/Src/main.c:313:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:330:6:Error_Handler	1
