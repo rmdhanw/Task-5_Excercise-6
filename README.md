@@ -49,7 +49,9 @@ This project demonstrates multitasking with **FreeRTOS** on STM32 by controlling
   - Accesses the shared resource without using a critical section.
 
 ---
-https://github.com/user-attachments/assets/f00831f9-7a42-478b-8425-77e1602f389c
+
+https://github.com/user-attachments/assets/b5f44e27-7fa8-4309-9d77-da6ad6268772
+
 
 ## Code Overview
 ### Critical Section Implementation
