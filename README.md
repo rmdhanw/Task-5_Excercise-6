@@ -28,6 +28,7 @@ This project demonstrates multitasking with **FreeRTOS** on STM32 by controlling
 |-------------|-----------|----------|
 | Green LED   | PA0       | PIN 0    |
 | Red LED     | PA2       | PIN 2    |
+| Blue LED    | PA1       | PIN 1    |
 
 ---
 
