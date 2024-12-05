@@ -66,3 +66,6 @@ void GreenLedTask(void const * argument)
     osDelay(500);
   }
 }
+
+
+https://github.com/user-attachments/assets/f00831f9-7a42-478b-8425-77e1602f389c
