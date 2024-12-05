@@ -48,6 +48,7 @@ This project demonstrates multitasking with **FreeRTOS** on STM32 by controlling
   - Accesses the shared resource without using a critical section.
 
 ---
+https://github.com/user-attachments/assets/f00831f9-7a42-478b-8425-77e1602f389c
 
 ## Code Overview
 ### Critical Section Implementation
@@ -67,5 +68,3 @@ void GreenLedTask(void const * argument)
   }
 }
 
-
-https://github.com/user-attachments/assets/f00831f9-7a42-478b-8425-77e1602f389c
